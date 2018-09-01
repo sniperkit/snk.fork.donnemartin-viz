@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var github = (function(){
   function escapeHtml(str) {
     return $('<div/>').text(str).html();

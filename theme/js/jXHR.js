@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // jXHR.js (JSON-P XHR)
 // v0.1 (c) Kyle Simpson
 // MIT License
